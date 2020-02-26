@@ -1,0 +1,7 @@
+{
+    "Region": "ap-shanghai",
+    "SecretId": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "SecretKey": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "Bucket": "bucketname-0000000000",
+    "Directory": "./dist"
+}
